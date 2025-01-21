@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      logo inazuma_0: 2961673909533724328
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
